@@ -1,0 +1,19 @@
+{
+  "name": "speedybot-serverless-experiment",
+  "version": "1.0.0",
+  "description": "## Get AWS Credentials",
+  "main": "handler.js",
+  "dependencies": {
+    "speedybot-mini": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "info": "serverless info",
+    "deploy": "serverless deploy",
+    "logs": "serverless logs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
